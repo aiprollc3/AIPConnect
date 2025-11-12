@@ -1,0 +1,23 @@
+{
+  "name": "ambassadors-in-productions",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.22.3",
+    "framer-motion": "^10.16.3",
+    "lucide-react": "^0.321.0",
+    "tailwindcss": "^3.4.1",
+    "@headlessui/react": "^1.7.16"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.1"
+  }
+}
